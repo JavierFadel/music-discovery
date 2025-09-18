@@ -1,4 +1,4 @@
-![Music Discovery Banner](./image/banner.png)
+![Music Discovery Banner](./image/banner.jpg)
 
 # Music Discovery & Song Recommendation System
 
