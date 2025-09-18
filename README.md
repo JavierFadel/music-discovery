@@ -1,3 +1,5 @@
+![Music Discovery Banner](./image/banner.png)
+
 # Music Discovery & Song Recommendation System
 
 A comprehensive machine learning project that combines music data analysis, clustering algorithms, and Spotify API integration to build an intelligent song recommendation system. This project uses unsupervised learning techniques to discover music patterns and provide personalized song recommendations based on audio features.
